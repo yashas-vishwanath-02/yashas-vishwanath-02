@@ -3,8 +3,8 @@
 - 🌱 I’m currently pursuing a Minor Degree in Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development Projects
 - 📫 How to reach me on
-- LinkedIN: [
-](https://www.linkedin.com/in/yashas-v0202/)
+- Email: yashasvgowda02@gmail.com
+- LinkedIN: www.linkedin.com/in/yashas-v0202/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Math ain't tha bad!
 
