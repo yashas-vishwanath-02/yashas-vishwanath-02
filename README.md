@@ -6,7 +6,7 @@
 - Email: yashasvgowda02@gmail.com
 - LinkedIN: www.linkedin.com/in/yashas-v0202/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Math ain't tha bad!
+- ⚡ Fun fact: Math ain't that bad!
 
 <!---
 yashas-vishwanath-02/yashas-vishwanath-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
